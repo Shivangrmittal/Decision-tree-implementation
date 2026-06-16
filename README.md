@@ -38,3 +38,7 @@ The performance of the model is evaluated using metrics such as **accuracy**, **
 Decision Trees offer several advantages, including simplicity, interpretability, and the ability to handle both numerical and categorical data. However, they may suffer from overfitting if the tree becomes too complex. Techniques such as pruning and limiting tree depth are often used to improve generalization.
 
 Overall, the implementation of a Decision Tree provides an effective and intuitive approach for solving classification and regression problems, making it a valuable tool in machine learning and data analysis.
+
+#OUTPUT
+
+<img width="1182" height="790" alt="Image" src="https://github.com/user-attachments/assets/1f138760-7451-4040-9fa0-c0390b7d223c" />
